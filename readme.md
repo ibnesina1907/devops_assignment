@@ -14,18 +14,3 @@ This repository contains 10 mini projects covering essential DevOps and Linux sy
 8. [Project 8 - Networking Basics](project-8.md)
 9. [Project 9 - Shell Scripting Basics](project-9.md)
 10. [Project 10 - Cron Job Automation](project-10.md)
-
-## Topics Covered
-
-- User and group management
-- File permissions and ownership
-- Directory structures
-- File searching and disk usage analysis
-- Process management
-- Package management with apt
-- Log file analysis and troubleshooting
-- Basic networking commands
-- Shell scripting fundamentals
-- Task automation with cron
-
-Each project includes step-by-step solutions with command examples and screenshots demonstrating the implementation on Ubuntu.
